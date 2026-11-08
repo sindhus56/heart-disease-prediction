@@ -81,3 +81,5 @@ Python · Streamlit · scikit-learn · Pandas · NumPy · Plotly · fpdf2
 ## Author
 
 Developed by **Sindhu S**
+
+[GitHub](https://github.com/sindhus56) · [LinkedIn](https://www.linkedin.com/in/sindhu-s56/) · sindhus5656@gmail.com
