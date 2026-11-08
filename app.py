@@ -653,8 +653,8 @@ def page_home():
             st.markdown(
                 '<div class="hero-title">Heart Disease<br><span>Prediction</span></div>'
                 '<div class="hero-text"><b>Take charge of your heart health!</b><br>'
-                "Enter your heart details<br>"
-                "and get an instant prediction using machine learning.</div>",
+                "Enter your heart details and get an<br>"
+                "instant prediction using machine learning.</div>",
                 unsafe_allow_html=True,
             )
             st.button("Get Started  →", type="primary", on_click=go_to, args=("Prediction",))

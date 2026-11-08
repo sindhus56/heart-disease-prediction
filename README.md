@@ -16,9 +16,11 @@ medical details, using a **Random Forest** model selected after comparing six ma
 |---|---|
 | ![Result](screenshots/03-prediction-result.png) | ![Insights](screenshots/04-health-insights.png) |
 
-**Downloadable PDF report**
+**PDF report**
 
 <img src="screenshots/05-pdf-report.png" width="480" alt="PDF report">
+
+[Download a sample PDF report](samples/sample_report.pdf)
 
 ## Features
 
