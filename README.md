@@ -3,7 +3,7 @@
 A Streamlit web app that predicts whether heart disease may be present from a patient's
 medical details, using a **Random Forest** model selected after comparing six machine-learning algorithms.
 
-> ⚠️ **Disclaimer:** This is an academic decision-support tool trained on a small dataset
+> **Disclaimer:** This is an academic decision-support tool trained on a small dataset
 > (180 patients). It is **not** a substitute for professional medical advice.
 
 ## Screenshots
@@ -17,8 +17,6 @@ medical details, using a **Random Forest** model selected after comparing six ma
 | ![Result](screenshots/03-prediction-result.png) | ![Insights](screenshots/04-health-insights.png) |
 
 **PDF report**
-
-<img src="screenshots/05-pdf-report.png" width="480" alt="PDF report">
 
 [Download a sample PDF report](samples/sample_report.pdf)
 
