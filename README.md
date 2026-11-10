@@ -6,6 +6,10 @@ medical details, using a **Random Forest** model selected after comparing six ma
 > **Disclaimer:** This is an academic decision-support tool trained on a small dataset
 > (180 patients). It is **not** a substitute for professional medical advice.
 
+[![Open in Streamlit](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)](https://heart-predict-sindhu.streamlit.app)
+
+🔗 **Live demo:** [heart-predict-sindhu.streamlit.app](https://heart-predict-sindhu.streamlit.app)
+
 ## Screenshots
 
 | Home | Prediction form |
